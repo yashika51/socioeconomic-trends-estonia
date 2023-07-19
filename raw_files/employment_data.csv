@@ -1,0 +1,100 @@
+﻿"Year","Sex","Major group of occupation","Average gross monthly earnings","1st decile of monthly earnings","2nd decile of monthly earnings","3rd decile of monthly earnings","4th decile of monthly earnings","Median of monthly earnings, 5th decile","6th decile of monthly earnings","7th decile of monthly earnings","8th decile of monthly earnings","9th decile of monthly earnings"
+"2010","Males and females","Occupations total",819,320,414,505,594,688,793,916,1090,1418
+"2010","Males and females","Managers",1346,320,511,697,880,1086,1278,1598,1917,2556
+"2010","Males and females","Professionals",1103,566,670,767,843,959,1086,1246,1476,1847
+"2010","Males and females","Technicians and associate professionals",888,415,572,657,746,820,914,1023,1162,1374
+"2010","Males and females","Clerical support workers",678,352,431,500,562,632,698,794,899,1042
+"2010","Males and females","Service and sales workers",497,288,335,377,409,447,489,543,632,773
+"2010","Males and females","Skilled agricultural, forestry and fishery workers",593,295,374,445,475,530,601,663,771,908
+"2010","Males and females","Craft and related trades workers",724,320,428,511,588,664,755,849,961,1181
+"2010","Males and females","Plant and machine operators, and assemblers",687,320,416,496,560,630,703,796,911,1093
+"2010","Males and females","Elementary occupations",456,278,291,320,352,391,447,502,585,711
+"2010","Males and females","Armed forces occupations",..,..,..,..,..,..,..,..,..,..
+"2010","Males","Occupations total",932,334,460,584,685,793,901,1047,1246,1598
+"2010","Males","Managers",1423,320,479,669,908,1150,1399,1666,2109,2793
+"2010","Males","Professionals",1341,657,805,959,1086,1214,1357,1548,1777,2177
+"2010","Males","Technicians and associate professionals",1027,460,639,767,849,959,1077,1201,1331,1545
+"2010","Males","Clerical support workers",826,383,534,620,703,799,879,974,1086,1214
+"2010","Males","Service and sales workers",599,302,370,423,494,574,639,711,793,937
+"2010","Males","Skilled agricultural, forestry and fishery workers",624,278,320,381,447,506,607,738,855,1272
+"2010","Males","Craft and related trades workers",764,335,454,548,639,716,804,893,1013,1224
+"2010","Males","Plant and machine operators, and assemblers",737,320,425,537,614,693,776,863,989,1172
+"2010","Males","Elementary occupations",536,288,323,383,434,483,543,626,709,860
+"2010","Males","Armed forces occupations",..,..,..,..,..,..,..,..,..,..
+"2010","Females","Occupations total",708,316,383,453,521,607,692,798,939,1196
+"2010","Females","Managers",1196,352,575,710,833,984,1192,1406,1708,2234
+"2010","Females","Professionals",977,534,639,708,781,850,952,1067,1258,1598
+"2010","Females","Technicians and associate professionals",782,383,535,624,682,759,821,896,1020,1182
+"2010","Females","Clerical support workers",631,347,418,478,529,585,639,727,831,959
+"2010","Females","Service and sales workers",462,288,328,364,391,430,460,505,558,674
+"2010","Females","Skilled agricultural, forestry and fishery workers",569,332,418,465,493,543,596,644,725,799
+"2010","Females","Craft and related trades workers",527,299,362,412,462,499,543,590,659,764
+"2010","Females","Plant and machine operators, and assemblers",555,326,400,454,495,527,565,623,689,792
+"2010","Females","Elementary occupations",398,278,281,304,322,352,383,429,488,575
+"2010","Females","Armed forces occupations",..,..,..,..,..,..,..,..,..,..
+"2014","Males and females","Occupations total",1043,413,540,649,770,890,1011,1174,1387,1784
+"2014","Males and females","Managers",1541,400,607,807,1007,1253,1460,1760,2180,2999
+"2014","Males and females","Professionals",1334,660,800,908,1007,1141,1294,1500,1750,2230
+"2014","Males and females","Technicians and associate professionals",1162,528,700,828,938,1024,1150,1285,1481,1834
+"2014","Males and females","Clerical support workers",885,450,551,640,743,823,914,1011,1154,1358
+"2014","Males and females","Service and sales workers",655,375,427,479,530,571,630,700,822,1040
+"2014","Males and females","Skilled agricultural, forestry and fishery workers",842,375,543,635,707,760,850,948,1090,1340
+"2014","Males and females","Craft and related trades workers",970,418,552,656,782,894,1012,1147,1318,1595
+"2014","Males and females","Plant and machine operators, and assemblers",918,425,576,664,756,846,947,1060,1205,1449
+"2014","Males and females","Elementary occupations",651,355,380,425,493,570,644,736,860,1067
+"2014","Males and females","Armed forces occupations",..,..,..,..,..,..,..,..,..,..
+"2014","Males","Occupations total",1192,428,607,752,892,1018,1170,1337,1580,2000
+"2014","Males","Managers",1633,384,600,773,1006,1279,1550,1900,2360,3200
+"2014","Males","Professionals",1685,800,1000,1190,1345,1500,1670,1900,2236,2850
+"2014","Males","Technicians and associate professionals",1360,560,791,951,1072,1201,1332,1500,1750,2149
+"2014","Males","Clerical support workers",1053,491,669,800,895,975,1095,1224,1367,1674
+"2014","Males","Service and sales workers",802,392,483,566,657,742,823,950,1062,1242
+"2014","Males","Skilled agricultural, forestry and fishery workers",881,358,436,600,700,767,892,1045,1200,1488
+"2014","Males","Craft and related trades workers",1033,428,589,736,861,975,1094,1225,1407,1676
+"2014","Males","Plant and machine operators, and assemblers",969,400,578,700,804,912,1021,1137,1291,1519
+"2014","Males","Elementary occupations",770,355,429,534,625,700,789,900,1035,1253
+"2014","Males","Armed forces occupations",..,..,..,..,..,..,..,..,..,..
+"2014","Females","Occupations total",896,400,500,596,680,785,888,1000,1180,1484
+"2014","Females","Managers",1376,422,650,855,1008,1182,1333,1555,1895,2525
+"2014","Females","Professionals",1164,636,755,850,937,1017,1127,1275,1500,1850
+"2014","Females","Technicians and associate professionals",1001,511,666,775,860,945,1018,1139,1278,1500
+"2014","Females","Clerical support workers",825,447,528,618,700,780,863,950,1073,1250
+"2014","Females","Service and sales workers",608,370,426,465,509,550,591,646,735,896
+"2014","Females","Skilled agricultural, forestry and fishery workers",795,473,606,650,712,750,803,888,956,1059
+"2014","Females","Craft and related trades workers",709,358,475,552,615,659,730,805,904,1054
+"2014","Females","Plant and machine operators, and assemblers",768,475,574,625,684,735,788,849,949,1096
+"2014","Females","Elementary occupations",554,355,360,398,432,485,543,620,707,842
+"2014","Females","Armed forces occupations",..,..,..,..,..,..,..,..,..,..
+"2018","Males and females","Occupations total",1314,550,703,855,1000,1150,1295,1478,1722,2200
+"2018","Males and females","Managers",1912,550,843,1130,1350,1600,1900,2235,2678,3498
+"2018","Males and females","Professionals",1735,978,1135,1250,1371,1505,1682,1905,2221,2843
+"2018","Males and females","Technicians and associate professionals",1391,602,850,1016,1167,1275,1410,1575,1800,2183
+"2018","Males and females","Clerical support workers",1129,550,700,850,969,1080,1193,1300,1470,1700
+"2018","Males and females","Service and sales workers",865,519,600,650,718,786,854,950,1094,1323
+"2018","Males and females","Skilled agricultural, forestry and fishery workers",1039,500,584,761,895,985,1056,1185,1294,1629
+"2018","Males and females","Craft and related trades workers",1199,546,716,860,998,1121,1240,1390,1600,1922
+"2018","Males and females","Plant and machine operators, and assemblers",1142,600,720,838,956,1059,1178,1298,1470,1776
+"2018","Males and females","Elementary occupations",862,500,528,596,663,752,850,975,1138,1384
+"2018","Males and females","Armed forces occupations",..,..,..,..,..,..,..,..,..,..
+"2018","Males","Occupations total",1453,570,762,955,1120,1253,1433,1639,1945,2498
+"2018","Males","Managers",2013,540,800,1167,1400,1692,2015,2400,2854,3740
+"2018","Males","Professionals",2126,1040,1288,1500,1700,1920,2137,2450,2854,3500
+"2018","Males","Technicians and associate professionals",1542,600,874,1100,1260,1424,1600,1775,2018,2500
+"2018","Males","Clerical support workers",1252,550,807,979,1098,1188,1300,1465,1600,1915
+"2018","Males","Service and sales workers",996,550,640,734,823,905,1006,1147,1307,1550
+"2018","Males","Skilled agricultural, forestry and fishery workers",1091,500,540,706,853,1000,1119,1230,1450,1868
+"2018","Males","Craft and related trades workers",1258,550,740,908,1060,1198,1307,1472,1684,2000
+"2018","Males","Plant and machine operators, and assemblers",1202,584,722,897,1019,1143,1250,1388,1560,1897
+"2018","Males","Elementary occupations",1000,500,580,700,796,920,1026,1178,1350,1594
+"2018","Males","Armed forces occupations",..,..,..,..,..,..,..,..,..,..
+"2018","Females","Occupations total",1165,549,670,791,910,1036,1171,1310,1502,1862
+"2018","Females","Managers",1739,625,907,1100,1277,1500,1722,2000,2395,3050
+"2018","Females","Professionals",1528,935,1050,1170,1290,1386,1500,1659,1900,2300
+"2018","Females","Technicians and associate professionals",1237,625,821,975,1100,1200,1280,1400,1550,1801
+"2018","Females","Clerical support workers",1071,548,680,800,905,1012,1142,1245,1392,1600
+"2018","Females","Service and sales workers",819,509,590,639,696,750,815,893,1007,1200
+"2018","Females","Skilled agricultural, forestry and fishery workers",949,500,625,792,900,959,1007,1080,1150,1336
+"2018","Females","Craft and related trades workers",922,529,655,748,812,877,954,1049,1151,1317
+"2018","Females","Plant and machine operators, and assemblers",954,617,709,773,834,906,982,1057,1158,1330
+"2018","Females","Elementary occupations",732,500,500,550,600,650,730,800,911,1083
+"2018","Females","Armed forces occupations",..,..,..,..,..,..,..,..,..,..
