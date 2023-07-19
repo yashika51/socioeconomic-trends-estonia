@@ -1,0 +1,420 @@
+,Type and level of education,Year,People Count
+0,Total,1980,283.7
+1,General education,1980,217.6
+2,..basic school level,1980,171.2
+3,..gymnasium level,1980,46.4
+4,Vocational education,1980,40.6
+8,Higher education,1980,25.5
+16,Total,1985,289.6
+17,General education,1985,223.1
+18,..basic school level,1985,183.5
+19,..gymnasium level,1985,39.6
+20,Vocational education,1985,43.0
+24,Higher education,1985,23.5
+32,Total,1990,287.7
+33,General education,1990,225.4
+34,..basic school level,1990,193.8
+35,..gymnasium level,1990,31.6
+36,Vocational education,1990,36.4
+40,Higher education,1990,25.9
+48,Total,1995,277.4
+49,General education,1995,221.1
+50,..basic school level,1995,184.2
+51,..gymnasium level,1995,36.8
+52,Vocational education,1995,29.4
+53,..vocational courses with no previous education requirement,1995,1.7
+54,..vocational courses after basic education,1995,17.3
+55,..vocational courses after secondary education,1995,10.4
+56,Higher education,1995,27.2
+59,..diploma study,1995,6.1
+60,..Bachelor study,1995,18.0
+62,..Master's study,1995,2.6
+63,..Doctoral study,1995,0.6
+64,Total,1996,283.9
+65,General education,1996,222.7
+66,..basic school level,1996,184.8
+67,..gymnasium level,1996,37.8
+68,Vocational education,1996,31.5
+69,..vocational courses with no previous education requirement,1996,1.6
+70,..vocational courses after basic education,1996,17.6
+71,..vocational courses after secondary education,1996,12.3
+72,Higher education,1996,30.1
+75,..diploma study,1996,7.7
+76,..Bachelor study,1996,18.8
+78,..Master's study,1996,2.8
+79,..Doctoral study,1996,0.7
+80,Total,1997,289.7
+81,General education,1997,224.1
+82,..basic school level,1997,185.8
+83,..gymnasium level,1997,38.3
+84,Vocational education,1997,31.3
+85,..vocational courses with no previous education requirement,1997,1.2
+86,..vocational courses after basic education,1997,18.1
+87,..vocational courses after secondary education,1997,12.0
+88,Higher education,1997,34.5
+91,..diploma study,1997,10.5
+92,..Bachelor study,1997,20.5
+94,..Master's study,1997,2.7
+95,..Doctoral study,1997,0.9
+96,Total,1998,295.2
+97,General education,1998,223.7
+98,..basic school level,1998,186.6
+99,..gymnasium level,1998,37.1
+100,Vocational education,1998,31.2
+101,..vocational courses with no previous education requirement,1998,1.0
+102,..vocational courses after basic education,1998,17.9
+103,..vocational courses after secondary education,1998,12.3
+104,Higher education,1998,40.6
+107,..diploma study,1998,15.0
+108,..Bachelor study,1998,21.7
+110,..Master's study,1998,2.8
+111,..Doctoral study,1998,1.1
+112,Total,1999,302.7
+113,General education,1999,222.2
+114,..basic school level,1999,184.7
+115,..gymnasium level,1999,37.5
+116,Vocational education,1999,31.2
+117,..vocational courses with no previous education requirement,1999,0.1
+118,..vocational courses after basic education,1999,18.0
+119,..vocational courses after secondary education,1999,13.1
+120,Higher education,1999,49.6
+122,..vocational higher education,1999,3.2
+123,..diploma study,1999,16.5
+124,..Bachelor study,1999,25.2
+126,..Master's study,1999,3.4
+127,..Doctoral study,1999,1.3
+128,Total,2000,305.8
+129,General education,2000,218.6
+130,..basic school level,2000,180.5
+131,..gymnasium level,2000,38.0
+132,Vocational education,2000,30.9
+133,..vocational courses with no previous education requirement,2000,0.2
+134,..vocational courses after basic education,2000,17.5
+135,..vocational courses after secondary education,2000,13.2
+136,Higher education,2000,56.4
+138,..vocational higher education,2000,5.6
+139,..diploma study,2000,17.1
+140,..Bachelor study,2000,27.9
+142,..Master's study,2000,4.3
+143,..Doctoral study,2000,1.4
+144,Total,2001,304.0
+145,General education,2001,213.8
+146,..basic school level,2001,174.3
+147,..gymnasium level,2001,39.4
+148,Vocational education,2001,29.8
+149,..vocational courses with no previous education requirement,2001,0.2
+150,..vocational courses after basic education,2001,17.9
+151,..vocational courses after secondary education,2001,11.7
+152,Higher education,2001,60.4
+154,..vocational higher education,2001,7.6
+155,..diploma study,2001,17.4
+156,..Bachelor study,2001,28.7
+158,..Master's study,2001,5.1
+159,..Doctoral study,2001,1.5
+160,Total,2002,298.4
+161,General education,2002,206.7
+162,..basic school level,2002,166.8
+163,..gymnasium level,2002,39.9
+164,Vocational education,2002,28.1
+165,..vocational courses with no previous education requirement,2002,0.2
+166,..vocational courses after basic education,2002,16.4
+167,..vocational courses after secondary education,2002,11.5
+168,Higher education,2002,63.6
+169,..professional higher education,2002,6.2
+170,..vocational higher education,2002,5.1
+171,..diploma study,2002,12.9
+172,..Bachelor study,2002,29.3
+173,..integrated Bachelor's/Master's study,2002,2.1
+174,..Master's study,2002,6.4
+175,..Doctoral study,2002,1.6
+176,Total,2003,293.0
+177,General education,2003,199.1
+178,..basic school level,2003,158.4
+179,..gymnasium level,2003,40.7
+180,Vocational education,2003,28.2
+181,..vocational courses with no previous education requirement,2003,0.3
+182,..vocational courses after basic education,2003,17.1
+183,..vocational courses after secondary education,2003,10.8
+184,Higher education,2003,65.7
+185,..professional higher education,2003,14.3
+186,..vocational higher education,2003,1.9
+187,..diploma study,2003,8.2
+188,..Bachelor study,2003,30.0
+189,..integrated Bachelor's/Master's study,2003,2.6
+190,..Master's study,2003,7.0
+191,..Doctoral study,2003,1.7
+192,Total,2004,288.6
+193,General education,2004,190.9
+194,..basic school level,2004,148.8
+195,..gymnasium level,2004,42.1
+196,Vocational education,2004,29.9
+197,..vocational courses with no previous education requirement,2004,0.3
+198,..vocational courses after basic education,2004,18.9
+199,..vocational courses after secondary education,2004,10.8
+200,Higher education,2004,67.7
+201,..professional higher education,2004,19.2
+202,..vocational higher education,2004,0.3
+203,..diploma study,2004,4.7
+204,..Bachelor study,2004,30.9
+205,..integrated Bachelor's/Master's study,2004,3.1
+206,..Master's study,2004,7.8
+207,..Doctoral study,2004,1.8
+208,Total,2005,278.3
+209,General education,2005,181.0
+210,..basic school level,2005,138.8
+211,..gymnasium level,2005,42.1
+212,Vocational education,2005,29.0
+213,..vocational courses with no previous education requirement,2005,0.0
+214,..vocational courses after basic education,2005,18.9
+215,..vocational courses after secondary education,2005,10.1
+216,Higher education,2005,68.3
+217,..professional higher education,2005,20.9
+218,..vocational higher education,2005,0.1
+219,..diploma study,2005,2.4
+220,..Bachelor study,2005,29.8
+221,..integrated Bachelor's/Master's study,2005,3.5
+222,..Master's study,2005,9.7
+223,..Doctoral study,2005,2.0
+224,Total,2006,268.4
+225,General education,2006,171.0
+226,..basic school level,2006,129.4
+227,..gymnasium level,2006,41.6
+228,Vocational education,2006,28.7
+229,..vocational courses with no previous education requirement,2006,0.2
+230,..vocational courses after basic education,2006,19.0
+231,..vocational courses after secondary education,2006,9.5
+232,Higher education,2006,68.8
+233,..professional higher education,2006,22.4
+234,..vocational higher education,2006,0.1
+235,..diploma study,2006,1.2
+236,..Bachelor study,2006,28.6
+237,..integrated Bachelor's/Master's study,2006,3.7
+238,..Master's study,2006,10.7
+239,..Doctoral study,2006,2.1
+240,Total,2007,257.5
+241,General education,2007,162.0
+242,..basic school level,2007,122.8
+243,..gymnasium level,2007,39.2
+244,Vocational education,2007,27.4
+245,..vocational courses with no previous education requirement,2007,0.3
+246,..vocational courses after basic education,2007,18.5
+247,..vocational courses after secondary education,2007,8.6
+248,Higher education,2007,68.2
+249,..professional higher education,2007,22.9
+250,..vocational higher education,2007,0.0
+252,..Bachelor study,2007,27.9
+253,..integrated Bachelor's/Master's study,2007,3.9
+254,..Master's study,2007,11.1
+255,..Doctoral study,2007,2.4
+256,Total,2008,250.1
+257,General education,2008,154.5
+258,..basic school level,2008,117.5
+259,..gymnasium level,2008,36.9
+260,Vocational education,2008,27.2
+261,..vocational courses with no previous education requirement,2008,0.4
+262,..vocational courses after basic education,2008,18.2
+263,..vocational courses after secondary education,2008,8.7
+264,Higher education,2008,68.4
+265,..professional higher education,2008,23.0
+266,..vocational higher education,2008,0.0
+268,..Bachelor study,2008,27.5
+269,..integrated Bachelor's/Master's study,2008,4.1
+270,..Master's study,2008,11.3
+271,..Doctoral study,2008,2.5
+272,Total,2009,247.0
+273,General education,2009,149.6
+274,..basic school level,2009,114.6
+275,..gymnasium level,2009,35.1
+276,Vocational education,2009,28.4
+277,..vocational courses with no previous education requirement,2009,0.4
+278,..vocational courses after basic education,2009,18.2
+279,..vocational courses after secondary education,2009,9.7
+280,Higher education,2009,69.0
+281,..professional higher education,2009,22.5
+282,..vocational higher education,2009,0.0
+284,..Bachelor study,2009,27.5
+285,..integrated Bachelor's/Master's study,2009,4.2
+286,..Master's study,2009,12.1
+287,..Doctoral study,2009,2.7
+288,Total,2010,243.1
+289,General education,2010,145.9
+290,..basic school level,2010,112.6
+291,..gymnasium level,2010,33.3
+292,Vocational education,2010,28.0
+293,..vocational courses with no previous education requirement,2010,0.4
+294,..vocational courses after basic education,2010,17.5
+295,..vocational courses after secondary education,2010,10.2
+296,Higher education,2010,69.1
+297,..professional higher education,2010,22.0
+300,..Bachelor study,2010,27.5
+301,..integrated Bachelor's/Master's study,2010,4.1
+302,..Master's study,2010,12.6
+303,..Doctoral study,2010,2.9
+304,Total,2011,237.6
+305,General education,2011,143.0
+306,..basic school level,2011,112.0
+307,..gymnasium level,2011,31.0
+308,Vocational education,2011,27.0
+309,..vocational courses with no previous education requirement,2011,0.4
+310,..vocational courses after basic education,2011,16.1
+311,..vocational courses after secondary education,2011,10.6
+312,Higher education,2011,67.6
+313,..professional higher education,2011,20.8
+316,..Bachelor study,2011,26.6
+317,..integrated Bachelor's/Master's study,2011,4.0
+318,..Master's study,2011,13.2
+319,..Doctoral study,2011,3.1
+320,Total,2012,231.9
+321,General education,2012,140.9
+322,..basic school level,2012,112.2
+323,..gymnasium level,2012,28.8
+324,Vocational education,2012,26.2
+325,..vocational courses with no previous education requirement,2012,0.4
+326,..vocational courses after basic education,2012,15.1
+327,..vocational courses after secondary education,2012,10.6
+328,Higher education,2012,64.8
+329,..professional higher education,2012,20.2
+332,..Bachelor study,2012,24.5
+333,..integrated Bachelor's/Master's study,2012,3.9
+334,..Master's study,2012,13.1
+335,..Doctoral study,2012,3.0
+336,Total,2013,226.2
+337,General education,2013,140.5
+338,..basic school level,2013,113.6
+339,..gymnasium level,2013,26.9
+340,Vocational education,2013,25.7
+341,..vocational courses with no previous education requirement,2013,0.4
+342,..vocational courses after basic education,2013,14.3
+343,..vocational courses after secondary education,2013,11.1
+344,Higher education,2013,60.0
+345,..professional higher education,2013,17.9
+348,..Bachelor study,2013,22.7
+349,..integrated Bachelor's/Master's study,2013,3.7
+350,..Master's study,2013,12.7
+351,..Doctoral study,2013,3.0
+352,Total,2014,222.9
+353,General education,2014,142.5
+354,..basic school level,2014,116.3
+355,..gymnasium level,2014,26.2
+356,Vocational education,2014,25.2
+357,..vocational courses with no previous education requirement,2014,0.4
+358,..vocational courses after basic education,2014,14.5
+359,..vocational courses after secondary education,2014,10.2
+360,Higher education,2014,55.2
+361,..professional higher education,2014,15.7
+364,..Bachelor study,2014,20.5
+365,..integrated Bachelor's/Master's study,2014,3.6
+366,..Master's study,2014,12.4
+367,..Doctoral study,2014,2.9
+368,Total,2015,221.9
+369,General education,2015,145.9
+370,..basic school level,2015,120.0
+371,..gymnasium level,2015,25.9
+372,Vocational education,2015,24.9
+373,..vocational courses with no previous education requirement,2015,0.8
+374,..vocational courses after basic education,2015,16.4
+375,..vocational courses after secondary education,2015,7.7
+376,Higher education,2015,51.1
+377,..professional higher education,2015,14.2
+380,..Bachelor study,2015,18.9
+381,..integrated Bachelor's/Master's study,2015,3.3
+382,..Master's study,2015,11.8
+383,..Doctoral study,2015,2.8
+384,Total,2016,222.1
+385,General education,2016,149.2
+386,..basic school level,2016,122.9
+387,..gymnasium level,2016,26.2
+388,Vocational education,2016,25.1
+389,..vocational courses with no previous education requirement,2016,1.1
+390,..vocational courses after basic education,2016,18.0
+391,..vocational courses after secondary education,2016,6.0
+392,Higher education,2016,47.8
+393,..professional higher education,2016,13.4
+396,..Bachelor study,2016,16.8
+397,..integrated Bachelor's/Master's study,2016,3.3
+398,..Master's study,2016,11.6
+399,..Doctoral study,2016,2.6
+400,Total,2017,223.6
+401,General education,2017,153.3
+402,..basic school level,2017,126.4
+403,..gymnasium level,2017,26.9
+404,Vocational education,2017,24.1
+405,..vocational courses with no previous education requirement,2017,1.1
+406,..vocational courses after basic education,2017,18.2
+407,..vocational courses after secondary education,2017,4.8
+408,Higher education,2017,46.2
+409,..professional higher education,2017,12.9
+412,..Bachelor study,2017,16.1
+413,..integrated Bachelor's/Master's study,2017,3.2
+414,..Master's study,2017,11.5
+415,..Doctoral study,2017,2.5
+416,Total,2018,225.9
+417,General education,2018,156.7
+418,..basic school level,2018,129.3
+419,..gymnasium level,2018,27.3
+420,Vocational education,2018,23.4
+421,..vocational courses with no previous education requirement,2018,1.2
+422,..vocational courses after basic education,2018,18.3
+423,..vocational courses after secondary education,2018,3.9
+424,Higher education,2018,45.8
+425,..professional higher education,2018,12.6
+428,..Bachelor study,2018,15.8
+429,..integrated Bachelor's/Master's study,2018,3.2
+430,..Master's study,2018,11.8
+431,..Doctoral study,2018,2.4
+432,Total,2019,227.9
+433,General education,2019,158.7
+434,..basic school level,2019,131.1
+435,..gymnasium level,2019,27.6
+436,Vocational education,2019,24.0
+437,..vocational courses with no previous education requirement,2019,1.4
+438,..vocational courses after basic education,2019,18.6
+439,..vocational courses after secondary education,2019,4.0
+440,Higher education,2019,45.2
+441,..professional higher education,2019,12.0
+444,..Bachelor study,2019,15.7
+445,..integrated Bachelor's/Master's study,2019,3.2
+446,..Master's study,2019,12.0
+447,..Doctoral study,2019,2.3
+448,Total,2020,231.6
+449,General education,2020,160.8
+450,..basic school level,2020,132.1
+451,..gymnasium level,2020,28.8
+452,Vocational education,2020,25.5
+453,..vocational courses with no previous education requirement,2020,1.5
+454,..vocational courses after basic education,2020,19.7
+455,..vocational courses after secondary education,2020,4.3
+456,Higher education,2020,45.3
+457,..professional higher education,2020,11.7
+460,..Bachelor study,2020,16.0
+461,..integrated Bachelor's/Master's study,2020,3.3
+462,..Master's study,2020,12.0
+463,..Doctoral study,2020,2.3
+464,Total,2021,233.0
+465,General education,2021,162.6
+466,..basic school level,2021,133.0
+467,..gymnasium level,2021,29.6
+468,Vocational education,2021,25.9
+469,..vocational courses with no previous education requirement,2021,1.6
+470,..vocational courses after basic education,2021,19.8
+471,..vocational courses after secondary education,2021,4.4
+472,Higher education,2021,44.6
+473,..professional higher education,2021,11.5
+476,..Bachelor study,2021,15.8
+477,..integrated Bachelor's/Master's study,2021,3.3
+478,..Master's study,2021,11.7
+479,..Doctoral study,2021,2.4
+480,Total,2022,238.7
+481,General education,2022,169.1
+482,..basic school level,2022,138.3
+483,..gymnasium level,2022,30.8
+484,Vocational education,2022,25.5
+485,..vocational courses with no previous education requirement,2022,1.5
+486,..vocational courses after basic education,2022,19.7
+487,..vocational courses after secondary education,2022,4.2
+488,Higher education,2022,44.1
+489,..professional higher education,2022,11.2
+492,..Bachelor study,2022,15.9
+493,..integrated Bachelor's/Master's study,2022,3.3
+494,..Master's study,2022,11.4
+495,..Doctoral study,2022,2.3
