@@ -18,7 +18,7 @@ I followed the steps for creating a new AWS account.
 
 1. Created an account on https://aws.amazon.com
 2. Signed up as root user and after that added 2FA with Google Authenticator
-3. Created user group and roles for myself and for this assignment and added necessary
+3. Created user group and roles for myself and for this task and added necessary
 permissions to access S3 and AWS Lambda
 
 And installed AWS CLI locally. I pulled the docker image using
@@ -27,15 +27,15 @@ And installed AWS CLI locally. I pulled the docker image using
 
 I exported some environment variables as follows, for the region I set up `eu-north-1` as it is the closest to where I am located.
 
-`export AWS_ACCESS_KEY_ID
+`export AWS_ACCESS_KEY_ID`
 
-export AWS_SECRET_ACCESS_KEY
+`export AWS_SECRET_ACCESS_KEY`
 
-export AWS_DEFAULT_REGION`
+`export AWS_DEFAULT_REGION`
 
 ## Setting up S3 Buckets
 
-Once my account and CLI was set up, I created S3 buckets, I created 3 buckets
+Once my account and CLI was set up, I created S3
 
 - estonia-bronze
 - estonia-silver
@@ -47,7 +47,7 @@ named buckets with the following CLI commands.
  -e AWS_DEFAULT_REGION bitnami/aws-cli:latest s3 mb
  s3://estonia-bronze`
 
- -` docker run --rm -it -e AWS_ACCESS_KEY_ID -e AWS_SECRET_ACCESS_KEY
+ - ` docker run --rm -it -e AWS_ACCESS_KEY_ID -e AWS_SECRET_ACCESS_KEY
  -e AWS_DEFAULT_REGION bitnami/aws-cli:latest s3 mb
  s3://estonia-silver`
 
@@ -56,7 +56,7 @@ named buckets with the following CLI commands.
  s3://estonia-gold`
 
 
-I ran into some errors like “failed: s3://estonia-bronze An error occurred (AccessDenied)” but I fixed them by managing security settings in the AWS management console.
+I ran into some errors like `failed: s3://estonia-bronze An error occurred (AccessDenied)` but I fixed them by managing security settings in the AWS management console.
 
 
 ## Transformation Logic: Moving Data from Bronze to Silver Bucket
@@ -78,43 +78,45 @@ Once transformations are done, the data is moved to another bucket with lambda_h
 The steps done in CLI for moving data and invoking lambda function are:
 
 1. Created a dependencies folder including the processing and transform script and uploaded that to S3 with the following commands and steps
-a. mkdir transform
-b. cd transform
-c. copied process_and_transform.py file here and made sure it's in the root level
-d. pip install boto3 pandas -t .
-e. cd..
-f. zip -r transform.zip transform
+
+  - mkdir transform
+  -  cd transform
+  - copied `process_and_transform.py` file here and made sure it's in the root level
+  - pip install boto3 pandas -t .
+  - cd..
+  - zip -r transform.zip transform
 
 2. Uploaded the transform.zip file to S3
-aws s3 cp transform.zip s3://estonia-bronze/
+  `aws s3 cp transform.zip s3://estonia-bronze/`
 
 3. Created a lambda function called ProcessAndTransform and used Lambda handler from the processing script
-`aws lambda create-function \
---function-name ProcessAndTransform \
---runtime python3.8 \
---role arn:aws:iam::my-account-id:role/my-role \
---handler process_and_transform.lambda_handler \
---code S3Bucket="estonia-bronze",S3Key="transform.zip" \
---timeout 900 \
---memory-size 1024
-`
+
+  `aws lambda create-function \
+  --function-name ProcessAndTransform \
+  --runtime python3.8 \
+  --role arn:aws:iam::my-account-id:role/my-role \
+  --handler process_and_transform.lambda_handler \
+  --code S3Bucket="estonia-bronze",S3Key="transform.zip" \
+  --timeout 900 \
+  --memory-size 1024
+  `
+
 4. Invoked the lambda function with
 
-`aws lambda invoke \
-  --function-name ProcessAndTransform \
-  --region eu-north-1 \
-  logs.txt
-`
+  `aws lambda invoke \
+    --function-name ProcessAndTransform \
+    --region eu-north-1 \
+    logs.txt
+  `
 
 In the process I had to manage some permissions and policies to add trusted relationships.
 
-After following these steps, I had my transferred files in the second bucket. The transformed files from estonia-silver bucket can be found here.
-
+After following these steps, I had my transferred files in the second bucket. 
 
 ## Summary Logic: Moving Data from Silver to Gold Bucket
 
 
-Finally I wrote an analysis script that can be found in scripts/analysis.py and ran it using following commands:
+Finally I wrote an analysis script that can be found in `scripts/analysis.py` and ran it using following commands:
 
 
 - Created a dependencies folder including analysis script
@@ -126,10 +128,10 @@ Finally I wrote an analysis script that can be found in scripts/analysis.py and 
     - zip -r analysis_dir.zip analysis_dir
 
 - Created Lambda function
-`    aws lambda create-function --function-name AnalyseEstoniaData \
-    --runtime python3.8 --role arn:aws:iam::my-account-id:role/service-role/my-role \
-    --zip-file fileb://analysis_dir.zip --handler analysis.lambda_handler
-`
+
+  `aws lambda create-function --function-name AnalyseEstoniaData \
+      --runtime python3.8 --role arn:aws:iam::my-account-id:role/service-role/my-role \
+      --zip-file fileb://analysis_dir.zip --handler analysis.lambda_handler`
 
 
 - Invoke Lambda Function
